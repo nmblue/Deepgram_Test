@@ -1,9 +1,9 @@
 from deepgram import Deepgram
 import asyncio, json
 
-DEEPGRAM_API_KEY = '1ce10e16e3dad3729fef9547bbb07a8f1c2ff452'
+DEEPGRAM_API_KEY = 'SECRET-KEY'
 
-PATH_TO_FILE = 'life.wav'
+PATH_TO_FILE = 'AUDIO.wav'
 
 async def main():
 
